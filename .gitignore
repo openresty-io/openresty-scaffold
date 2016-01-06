@@ -41,3 +41,4 @@ luac.out
 
 # temp directories
 *_temp/
+*.pid
